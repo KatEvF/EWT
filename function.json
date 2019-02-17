@@ -1,0 +1,18 @@
+"name": "IoTHubMessages",
+      "direction": "in",
+      "eventHubName": "samples-workitems",
+      "connection": "EWTgnome_events_IOTHUB",
+      "cardinality": "many",
+      "consumerGroup": "$Default"
+    },
+    {
+      "type": "twilioSms",
+      "name": "sms",
+      "accountSidSetting": "TwilioAccountSid",
+      "authTokenSetting": "TwilioAuthToken",
+      "from": "+14388004097",
+      "body": "hey",
+      "direction": "out"
+    }
+  ]
+}
