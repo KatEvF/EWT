@@ -1,6 +1,8 @@
 # EWT
 Emergency Weather Transmitter 
 
+Note the majority of our software is cloud based using Microsoft Azure, please contact an owner for access due to authentication codes.
+
 ## Inspiration
 To connect remote locations and bring them information and technology that would otherwise not be available
 ## What it does
